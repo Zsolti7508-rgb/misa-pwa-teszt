@@ -1,8 +1,5 @@
-MISA MULTIPLATFORM v1 – TESZTVERZIÓ
+Misa Multiplatform v2 – telefonos megjelenés finomítása
 
-1. Nyisd meg az index.html fájlt Safariban vagy Chrome-ban.
-2. Kattints a jobb alsó 🎨 Megjelenés gombra, és válassz az öt téma közül.
-3. A témát a böngésző helyben megjegyzi.
-4. A PWA telepítés és offline működés HTTPS alatt (például GitHub Pages) tesztelhető; helyi file:// megnyitáskor a service worker nem aktív.
-5. A meglévő v373-as játék eredeti fájlja nem módosult.
-6. Ez első tesztverzió; az összes feladattípus és mobilnézet teljes ellenőrzése még hátravan.
+A teljes mappatartalmat töltsd fel a GitHub tesztrepository gyökerébe, felülírva a régi fájlokat.
+A v2 kompaktabb fejlécet, kisebb függőleges térközöket és a fejlécben lévő Téma gombot ad telefonon. A játékmenet és tananyag nem változott.
+Fontos: nyilvános GitHub repositoryba csak közzétételre engedélyezett tananyagot tölts fel.
