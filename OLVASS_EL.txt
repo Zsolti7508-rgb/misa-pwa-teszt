@@ -1,5 +1,5 @@
-Misa Multiplatform v2 – telefonos megjelenés finomítása
-
-A teljes mappatartalmat töltsd fel a GitHub tesztrepository gyökerébe, felülírva a régi fájlokat.
-A v2 kompaktabb fejlécet, kisebb függőleges térközöket és a fejlécben lévő Téma gombot ad telefonon. A játékmenet és tananyag nem változott.
-Fontos: nyilvános GitHub repositoryba csak közzétételre engedélyezett tananyagot tölts fel.
+Misa Multiplatform v2.1 – az alsó Fejlesztői mód gomb eltávolítva.
+A készítő neve megmaradt. A játék és a tananyag változatlan.
+A hat alkalmazásfájlt töltsd fel a GitHub tesztrepository gyökerébe, felülírva a régieket.
+Az offline gyorsítótár verziója frissült.
+Nyilvános repositoryba csak megfelelő jogosultsággal közzétehető tartalmat tölts fel.
